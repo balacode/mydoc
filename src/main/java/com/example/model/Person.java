@@ -1,4 +1,4 @@
-package com.example.resource;
+package com.example.model;
 
 import com.wordnik.swagger.annotations.ApiModel;
 import com.wordnik.swagger.annotations.ApiModelProperty;

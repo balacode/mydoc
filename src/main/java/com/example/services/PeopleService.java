@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 
 import com.example.exceptions.PersonAlreadyExistsException;
 import com.example.exceptions.PersonNotFoundException;
-import com.example.resource.Person;
+import com.example.model.Person;
 
 @Service
 public class PeopleService {

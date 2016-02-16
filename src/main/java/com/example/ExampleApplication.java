@@ -13,7 +13,7 @@ import org.springframework.web.context.support.AnnotationConfigWebApplicationCon
 
 import com.example.config.AppConfig;
 
-public class Starter {
+public class ExampleApplication {
 	private static final int SERVER_PORT = 8080;
 	private static final String CONTEXT_PATH = "rest";
 	

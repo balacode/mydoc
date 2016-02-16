@@ -13,9 +13,9 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.DependsOn;
 import org.springframework.core.env.Environment;
 
-import com.example.resource.Person;
-import com.example.rs.JaxRsApiApplication;
-import com.example.rs.PeopleRestService;
+import com.example.model.Person;
+import com.example.resources.JaxRsApiApplication;
+import com.example.resources.PeopleRestService;
 import com.example.services.PeopleService;
 import com.fasterxml.jackson.jaxrs.json.JacksonJsonProvider;
 import com.wordnik.swagger.jaxrs.config.BeanConfig;
